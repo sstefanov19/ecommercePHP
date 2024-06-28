@@ -1,0 +1,20 @@
+.container {
+    padding-top: 100px;
+    border: 1px solid black;
+    height: 700px;
+  }
+
+  .text h1 {
+    position: absolute;
+    right: 30%;
+    top: 15%;
+  }
+
+
+  .text h2 {
+    font-size: 20px;
+    position: absolute;
+    width: 370px;
+    right: 27%;
+    top: 20%; 
+  }
